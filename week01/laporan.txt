@@ -1,0 +1,1 @@
+week 1 introduction git, clone git, CLI, pull dan push git.
